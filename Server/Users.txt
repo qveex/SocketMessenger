@@ -2,7 +2,7 @@ username = misha hash = BU74VX
 
 username = rakhim hash = BF15UC
 
-username = Ser¸ga hash = UF90BS
+username = Serega hash = UF90BS
 
 username = Krutov777 hash = KO15RD
 
