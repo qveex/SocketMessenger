@@ -1,0 +1,14 @@
+﻿  Client.cpp
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(330,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(335,33): warning C4018: <: несоответствие типов со знаком и без знака
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(336,44): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(337,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(339,123): warning C4244: -=: преобразование "double" в "unsigned int", возможна потеря данных
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(348,81): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(354,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(356,86): warning C4244: -=: преобразование "double" в "unsigned int", возможна потеря данных
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(360,33): warning C4018: <: несоответствие типов со знаком и без знака
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(361,30): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(363,97): warning C4244: -=: преобразование "double" в "unsigned int", возможна потеря данных
+G:\prog\C lab\MPO lab1\Client\Client\Client.cpp(364,73): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+  Client.vcxproj -> G:\prog\C lab\MPO lab1\Client\Debug\Client.exe
